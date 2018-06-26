@@ -17,17 +17,4 @@
 		<module>quality-parent</module>	
 	</modules>
 	
-	<distributionManagement>
-		<repository>
-	        <id>central</id>
-	        <name>releases</name>
-	        <url>http://nexus:8081/repository/maven-releases/</url>
-	    </repository>
-	    <snapshotRepository>
-	        <id>snapshots</id>
-	        <name>snapshots</name>
-	        <url>http://nexus:8081/repository/maven-snapshots/</url>
-	    </snapshotRepository>
-	</distributionManagement>
-	
 </project>
