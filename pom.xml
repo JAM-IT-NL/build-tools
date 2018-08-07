@@ -6,7 +6,7 @@
 
 	<groupId>nl.jam</groupId>
 	<artifactId>build-tools</artifactId>
-	<version>0.2.3</version>
+	<version>0.2.6</version>
 
 	<build>
 		<plugins>
