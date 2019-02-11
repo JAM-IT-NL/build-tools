@@ -79,9 +79,9 @@
 		</module>
 		<module name="LineLength">
 			<!-- ##########################################################################################################
-			####### Changed max line length from 100 to 120 ##########################################################
+			####### Changed max line length from 100 to 200 ##########################################################
 			###############################################################################################################-->
-			<property name="max" value="120"/>
+			<property name="max" value="200"/>
 			<!-- #### End of customisation #### -->
 			<property name="ignorePattern" value="^package.*|^import.*|a href|href|http://|https://|ftp://"/>
 		</module>
